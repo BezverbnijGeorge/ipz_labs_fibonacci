@@ -1,1 +1,2 @@
-# ipz_labs_fibonacci on python
+# ipz_labs_fibonacci
+fibonacci sequence in python
